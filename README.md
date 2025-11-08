@@ -64,6 +64,8 @@ Check out the visual workflow and automation results below 👇
 
 [▶️ Watch the Demo Video](https://github.com/YahyaShigri/AI-Automation/blob/main/video/admession-form-video.mp4)
 
+
+
 🌟 Summary
 
 This project demonstrates how AI-powered automation can transform traditional admission processes. From data collection to filtering and categorization, everything happens automatically — helping schools and colleges work smarter, not harder.
