@@ -40,8 +40,9 @@ Logic: n8n Conditional Nodes
 
 📊 Visual Overview
 
-Check out the visual workflow and automation results below 👇 (You can add screenshots or a workflow diagram here.)
-
+Check out the visual workflow and automation results below 👇 
+### 🧩 Workflow Overview
+![n8n Workflow](images/work-flow-screen-shoot.png)
 🌟 Summary
 
 This project demonstrates how AI-powered automation can transform traditional admission processes. From data collection to filtering and categorization, everything happens automatically — helping schools and colleges work smarter, not harder.
