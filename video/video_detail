@@ -1,0 +1,6 @@
+This project showcases an AI-powered admission file filtering workflow built using n8n automation.
+It automatically collects student applications from Google Forms, sorts them by percentage, filters applicants based on merit (above or below 50%), and organizes data in Airtable — making the entire admission process fast and error-free.
+
+▶️ Watch the Demo Video
+
+🔹 Click the image above to watch the full demo video on YouTube.
