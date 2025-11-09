@@ -67,8 +67,9 @@ It automatically collects student data from Google Forms, sorts it by percentage
 ---
 
 ### ▶️ Watch the Demo Video  
-[![Watch on YouTube](https://img.youtube.com/vi/hTTcqkmvEIw/0.jpg)](https://youtu.be/hTTcqkmvEIw)
+[![Watch on YouTube](https://img.youtube.com/vi/gjzXOIuJ68Q/0.jpg)](https://youtu.be/gjzXOIuJ68Q)
 
+🔗 [Click here to watch directly on YouTube](https://youtu.be/gjzXOIuJ68Q)
 
 
 
