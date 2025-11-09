@@ -59,10 +59,16 @@ Check out the visual workflow and automation results below 👇
 ### 🧩 Distric Shigar
 ![n8n Workflow](images/shigar.png)
 
+## 🎥 Admission Automation Demo
 
-## 🎥 Admission Form Automation Demo
+This project showcases an **AI-powered admission file filtering workflow** built with **n8n automation**.  
+It automatically collects student data from Google Forms, sorts it by percentage, filters applicants based on merit (above or below 50%), and organizes them in Airtable — making the admission process faster and error-free.  
 
-[▶️ Watch the Demo Video](https://github.com/YahyaShigri/AI-Automation/blob/main/video/admession-form-video.mp4)
+---
+
+### ▶️ Watch the Demo Video  
+[![Watch on YouTube](https://img.youtube.com/vi/hTTcqkmvEIw/0.jpg)](https://youtu.be/hTTcqkmvEIw)
+
 
 
 
